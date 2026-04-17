@@ -1,0 +1,37 @@
+.footer {
+    background: linear-gradient(to right, #680e3f, #a83279);
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.footer-content h2 {
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.social-links {
+    margin: 20px 0;
+}
+
+.social-links a {
+    color: pink;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    color: white;
+    letter-spacing: 1px;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 14px;
+    opacity: 0.8;
+}
